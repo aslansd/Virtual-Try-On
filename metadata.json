@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Try-On",
+  "description": "Virtual Try-On studio that lets you upload your photo, enter clothing URLs, overlay items interactively, and receive deep AI styling and sizing analyses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
